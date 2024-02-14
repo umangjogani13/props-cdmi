@@ -1,0 +1,54 @@
+.box1
+{
+    width: 300px;
+    margin: auto;
+   
+
+}
+.c-img img
+{
+    width: 100% !important;
+    border-radius: 10px;
+}
+.c-grid
+{
+    display: grid;
+    grid-template-columns: auto auto auto;   
+
+}
+.c-text
+{
+    text-align: left;
+
+}
+.c-icon
+{
+    align-items: center;
+    margin-bottom: 20px;
+}
+.c-button button
+{
+    background-color: #003366;
+    border: none;
+    padding: 7px 15px;
+    color: white;
+    font-size: 14px;
+    border-radius: 5px;
+}
+.c-star
+{
+    margin-right: 110px !important;
+    color: #FFC600;
+}
+.c-view
+{
+    margin-top: 20px;
+}
+.c-view button
+{
+    background-color: #FFBC06;
+    border: 2px solid #FFBC06;
+    color: #ffffff !important;
+    padding: 12px 30px;
+    border-radius: 2px;
+}

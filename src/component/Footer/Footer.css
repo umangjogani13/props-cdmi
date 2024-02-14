@@ -1,0 +1,96 @@
+
+.space{
+    margin-top: 50px;
+
+}
+.footer{
+    background-color: #003366;
+       padding-top: 70px;
+    margin: auto;
+}
+
+.footer .f-box{
+    padding: 0 20px;
+    font-size: 14px;
+    text-align: left;
+}
+.footer .logo{
+    margin-bottom: 15px;
+    width: 250px;
+    color:white;
+}
+.footer p{
+    color: white;
+    text-align: justify;
+    margin-bottom: 16px;
+}
+.footer .f-box h6{
+    color: var(--yellow);
+    font-size: 16px;
+    margin-top: 10px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+}
+
+.footer .social li{
+    padding: 4px;
+    display: inline-block;
+}
+.footer .social li a{
+    background-color: rgba(255, 255, 255, 0.1);
+    color: white;
+    border-radius: 5px;
+    font-size: 16px;
+    height: 25px;
+    width: 25px;
+    line-height: 25px;
+    text-align: center;
+    vertical-align: center;
+}
+li a 
+{
+    padding: 12px 10px;
+}
+.links{
+    text-align: left;
+}
+.footer .f-box .links li{
+    padding: 0 0 10px;
+}
+.footer .links a{
+    color: white;
+    font-size: 14px;
+}
+
+.footer .head h6{
+    margin-bottom: 8px;
+    font-size: 16px;
+}
+.footer .head h6 a{
+    color: #EFBC06;
+}
+.footer .head span{
+    color: white;
+}
+.footer .head a{
+    color: #EFBC06;
+}
+.footer .branch li{
+    margin-bottom: 2px;
+    text-align: left;
+}
+
+.footer .branch a{
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+.copyright{
+    padding: 15px 0;
+    background-color: #072044;
+}
+.copyright p{
+    color: white;
+}

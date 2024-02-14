@@ -1,0 +1,32 @@
+.image
+{
+    display: block;
+    width: 225px;
+    margin: 5px 0px;
+    margin-right: 200px;
+}
+.main_menu img{
+    height: 100%;
+     width: 100%; 
+}
+a
+{
+    text-decoration: none;
+}
+nav
+{
+    background-color: #FFFFFF;
+    font-weight: bold;
+    font-size: 14px;
+}
+ul
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li a
+    {
+    padding: 30px 10px;    
+}

@@ -1,0 +1,36 @@
+
+.topnav{
+    background-color: #003366;
+}
+.topnav .container
+{
+    padding: 10px;
+    color: white;
+}
+.d-flex
+{
+    display: flex;
+}
+.m-auto
+{
+    margin: auto;
+}
+.j-center
+{
+    justify-content: center;
+}
+.align-center
+{
+    align-items: center;
+}
+
+.l-info a 
+{
+    padding: 0px 5px;
+
+}
+#icon
+{
+    padding-left: 5px;
+    font-size: 20px;
+}

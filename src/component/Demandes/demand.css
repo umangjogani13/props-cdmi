@@ -1,0 +1,21 @@
+
+.w-center {
+    margin-top: 80px;
+}
+
+.w-info {
+    text-align: left;
+}
+.w-tital
+{
+    text-align: left;
+    font-size: 20px;
+}
+
+.w-info a {
+    border: 1px solid #ddd;
+    font-size: 12px;
+    margin: 0 2px;
+    padding: 2px 5px;
+    display: inline-block;
+}

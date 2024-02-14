@@ -1,0 +1,65 @@
+.m-center
+{
+    width: 80%;
+    margin: auto;
+}
+.student{
+    width: 50%;
+    text-align: left;
+}
+
+.test .quote{
+    margin-top: 25px;
+    font-size: 80px;
+    color: rgba(0,0,0,0.08);
+    font-weight: 900;
+}
+.test .content{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    color: #888888;
+    text-align: justify;
+    font-weight: 400;
+}
+.test .img img{
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+.test .user{
+    margin: -13px 0 0;
+}
+
+.test .user h6{
+    color: var(--blue);
+    font-size: 16px;
+}
+.test .user .default{
+    color: var(--yellow);
+    font-style: italic;
+    margin-right: 5px;
+}
+.test .user .muted{
+    color: #6c757d;
+    font-style: italic;
+}
+
+.right{
+    width: 50%;
+    position: relative;
+}
+.right .shape{
+    position: relative;
+}
+.right .shape::before{
+    width: 100%;
+    position: absolute;
+    content: '';
+    background-image: url('./image/m3.png');
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    top: 0;
+    right: 0;
+}
